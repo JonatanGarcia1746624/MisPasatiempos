@@ -1,0 +1,23 @@
+/*Fondo de la pagina*/
+#cuerpo {background-image: url("fondo.jpg"); background-size: 150%;}
+
+/*Estilo para el titulo*/
+#title {background-color: black; color: aqua; font-size: 40px;}
+
+/*Estilo para el subtitulo*/
+#subtitulo {color: aquamarine; font-size: 30px;}
+
+/*Estilo para el link 1*/
+#link1 {color: yellowgreen; font-size: 25px;}
+
+/*Estilo para el link 2*/
+#link2 {color: yellowgreen; font-size: 25px;}
+
+/*Estilo para figura*/
+#figura:hover {color: chartreuse;}
+
+/*Estilo figcaption*/
+#fc:hover {color: red;}
+
+/*Estilo blockquote*/
+#bq:hover {color: white; font-size: 15px;}
